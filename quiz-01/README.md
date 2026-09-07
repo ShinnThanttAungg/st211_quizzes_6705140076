@@ -1,5 +1,13 @@
 # Quiz 01 - Bank Account
 
-This quiz asked us to create a `BankAccount` class with deposit and withdrawal operations that update the balance.
+This quiz asked us to create a `BankAccount` class that supports depositing money and withdrawing money while updating the balance.
 
-Run the solution tests with `pytest test_solution.py`. Sample output: `2 passed`.
+## How to Run
+
+Run the tests with:
+`python -m pytest`
+
+## Sample Output
+
+```text
+2 passed
